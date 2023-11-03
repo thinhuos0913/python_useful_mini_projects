@@ -1,0 +1,35 @@
+1 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ OCR and bookmarking  UNSW Library, Digitisation and Physical Resources  
+When preparing a digitised document for bookmarking, check the PDF to make sure the text 
+is OCR converted by highlighting any text from any page in the PDF. I f not, please follow 
+these instructions : 
+OCR Text Recognition   
+1. Open a PDF file which has been scanned.   
+2. Choose Tools > Enhance Scans.  
+ 
+ 
+ 
+ 
+ 
+ 
+Note: It is recommended that you add this shortcut to your Tools panel on the 
+right 
+3. Enhance Scans will appear on your toolbar . 
+4. Choose Recogniz e Text  > In This File . 
+5. For first time use, click Settings . 
+6. Set Pages to All Pages, Language to English (UK)  and Output to Searchable 
+Image (Exact) . 
+7. Click Recognize Text . 
+ 

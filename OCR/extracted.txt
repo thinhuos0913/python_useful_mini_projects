@@ -1,0 +1,13 @@
+
+Give the current location of the applicant and their fegal status at this location.
+Gurrent lacation VIETNAM
+Legal status: Citizen
+
+
+Current focation’
+
+Application context
+
+Is the applicant currently outside Australia?
+Yes
+
