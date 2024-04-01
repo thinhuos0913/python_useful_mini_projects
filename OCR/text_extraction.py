@@ -6,7 +6,7 @@ import pytesseract
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 # Read image from which text needs to be extracted
-img = cv2.imread("mydoc.jpg")
+img = cv2.imread("missing_data.JPG")
 
 # Preprocessing the image starts
 
@@ -32,7 +32,7 @@ contours, hierarchy = cv2.findContours(dilation, cv2.RETR_EXTERNAL,
 im2 = img.copy()
 
 # A text file is created and flushed
-file = open("extracted.txt", "w+")
+file = open("missing_data.txt", "w+")
 file.write("")
 file.close()
 
@@ -50,7 +50,7 @@ for cnt in contours:
 	cropped = im2[y:y + h, x:x + w]
 	
 	# Open the file in append mode
-	file = open("extracted.txt", "a")
+	file = open("missing_data.txt", "a")
 	
 	# Apply OCR on the cropped image
 	text = pytesseract.image_to_string(cropped)

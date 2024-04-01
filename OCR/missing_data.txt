@@ -1,0 +1,11 @@
+Handling missing data based on proportion:
+~ <1%: Safe to remove or use basic imputation (mean/median).
+
+~ 1-5%: Remove if randomness, otherwise, use simple imputation.
+~ 5-20%: Be cautious about removal: try advanced imputation
+
+~ 20-50%: Avoid removing; use ML-based imputation methods
+
+~ >50%: Explore alternatives, consult domain experts to avoid bias
+
+
