@@ -1,16 +1,5 @@
 1 
-  
-  
- 
- 
- 
- 
-  
- 
-  
- 
- 
- 
+
  OCR and bookmarking  UNSW Library, Digitisation and Physical Resources  
 When preparing a digitised document for bookmarking, check the PDF to make sure the text 
 is OCR converted by highlighting any text from any page in the PDF. I f not, please follow 

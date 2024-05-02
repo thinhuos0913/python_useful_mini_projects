@@ -1,13 +1,30 @@
+Handling missing data based on proportion:
+~ <1%: Safe to remove or use basic imputation (mean/median).
 
+~ 1-5%: Remove if randomness, otherwise, use simple imputation.
+~ 5-20%: Be cautious about removal: try advanced imputation
+
+~ 20-50%: Avoid removing; use ML-based imputation methods
+
+~ >50%: Explore alternatives, consult domain experts to avoid bias
+
+------------------------------------
+------------------------------------
 Give the current location of the applicant and their fegal status at this location.
 Gurrent lacation VIETNAM
 Legal status: Citizen
 
-
+------------------------------------
 Current focation’
 
 Application context
 
 Is the applicant currently outside Australia?
 Yes
+------------------------------------
+Web Developer with 5+ years of experience in designing and developing
+user interfaces, testing, debugging, and training staff within eCommerce
+technologies. Proven ability in optimizing web functionalities that
+improve data retrieval and workflow efficiencies.
 
+------------------------------------
